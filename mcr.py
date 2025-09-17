@@ -49,7 +49,7 @@ def main():
             print("Tie!")
         # Show the game board
         for row in game:
-            print(" ".join(row))
+            print(" 111".join(row))
 
 if __name__ == "__main__":
     main()
